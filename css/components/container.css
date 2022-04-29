@@ -1,0 +1,19 @@
+.container {
+	width: 700px;
+	margin: 0px auto;
+}
+@media(max-width: 960px){
+.box-centered {
+    	width: 700px; 
+    }
+}
+@media(max-width: 720px){
+.box-centered {
+    	width: 500px; 
+    }
+}
+@media(max-width: 540px){
+.box-centered {
+    	width: 300px; 
+    }
+}
